@@ -11,7 +11,7 @@ setup(
     version="0.1.0",
     author="",
     author_email="",
-    description="A股小白量化入门工具包 - 简单易用的量化投资工具",
+    description="轻量级A股量化投资工具包 - 简单易用的量化投资工具",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/yourname/ezquant",
